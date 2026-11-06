@@ -1,5 +1,5 @@
 # 4. Write a recursive function to calculate the sum of first n natural numbers.
-understand this!
+#understand this!
 def sum_of_n_recursive(n):
     # 1. BASE CASE
     if n <= 1:
